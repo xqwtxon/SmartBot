@@ -1,7 +1,7 @@
 const dbd = require("dbd.js")
 
 const bot = new dbd.Bot({
-token: "Nzg4NzUwMjUwMDAwMTIxODk2.X9oC6Q.WpEglPatnpfj_nPyRoITDB7HmJo", 
+token: "", 
 prefix: "!" 
 })
 // Status //
